@@ -1,0 +1,9 @@
+.postDom {
+    margin: 1em;
+    display: flex;
+    align-items: center;
+}
+
+.deleteBlock {
+    margin-left: 10px;
+}
